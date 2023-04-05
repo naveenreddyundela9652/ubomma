@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-page {
+    height: 100%;
+    width: 200vw;
+    background-image: linear-gradient(to bottom, black, #242020, #302a2a);
+}
+
+.logo {
+    border: 2px solid #03f8fc;
+    padding: 10px;
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+    font-size: 30px;
+    color: #03f8fc;
+}
+
+.heading {
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: left;
+    margin: 10px;
+}
+
+.card-container {
+    padding: 10px;
+}
+
+.card-image {
+    height: 50vh;
+    width: 30vw;
+    margin: 10px;
+}
+
+.paragraph {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: left;
+}
+
+.movies {
+    font-size: 50px;
+    text-align: left;
+}
+
+.main-heading {
+    font-family: "Trebuchet MS";
+    font-size: 55px;
+    color: #ffffff;
+}
+
+.footer-heading {
+    font-family: "Trebuchet MS";
+    font-size: 20px;
+    color: #ffffff;
+}
